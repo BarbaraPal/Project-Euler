@@ -1,4 +1,5 @@
 # Largest prime factor
+
 def najvecje_prastevilo_ki_deli_stevilo(stevilo, deljitelj):
     while stevilo != 1:
         if stevilo % deljitelj == 0:

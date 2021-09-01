@@ -1,4 +1,5 @@
 # Multiples of 3 or 5
+
 def vsota(stevka):
     vsota = 0
     for i in range(1, stevka):

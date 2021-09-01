@@ -1,4 +1,5 @@
 # Even Fibonacci numbers
+
 def fibonacci(stevilo):
     vsota = 0
     prvost = 1

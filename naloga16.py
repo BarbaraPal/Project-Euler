@@ -1,4 +1,5 @@
 # Power digit sum
+
 def vsota_stevk(n):
     stevilo_stevk = len(str(n))
     vsota = 0

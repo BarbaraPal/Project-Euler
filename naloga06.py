@@ -1,4 +1,5 @@
 # Sum square difference
+
 def razlika(n):
     vsota_kvadratov = 0
     vsota = 0
