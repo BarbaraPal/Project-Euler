@@ -1,4 +1,5 @@
 # Combinatoric selections
+
 def binomski(n, k):
     if k == 0:
         return 1
