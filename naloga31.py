@@ -1,4 +1,5 @@
 # Coin sums
+
 def koliko():
     nacini = [0]*201
     nacini[0] = 1
