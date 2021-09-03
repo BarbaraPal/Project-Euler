@@ -1,3 +1,5 @@
+# Lexicographic permutations
+
 from itertools import permutations
 
 def seznam_permutacij():
